@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://jounutsman.co.za
+
+# Sitemaps
+Sitemap: https://jounutsman.co.za/sitemap.xml

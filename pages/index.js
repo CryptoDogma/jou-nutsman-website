@@ -2,6 +2,12 @@
 
 import React, { useState } from "react";
 import Image from "next/image";
+import Head from "next/head";
+
+<Head>
+  <title>Jou Nutsman | Handyman, Solar & Security Services</title>
+</Head>
+
 
 export default function Home() {
   const [lang, setLang] = useState("af");
