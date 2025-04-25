@@ -71,15 +71,7 @@ export default function Home() {
       </div>
 
       {/* Hero Section */}
-      <section className="px-4 py-6 text-center max-w-3xl mx-auto text-gray-700">
-        <h2 className="text-xl font-semibold mb-2">Trusted Handyman & Solar Experts</h2>
-          <p>
-    Jou Nutsman Pty Ltd delivers expert maintenance, solar installations, electrical work, and security systems across South Africa.
-    From plumbing to CCTV to off-grid solar setups, we bring quality service to homes and businesses.
-          </p>
-      </section>
-
-      <section className="flex flex-col items-center justify-center text-center py-16 px-4 bg-red-800 text-white">
+           <section className="flex flex-col items-center justify-center text-center py-16 px-4 bg-red-800 text-white">
         <div className="bg-white p-4 rounded-full shadow-md">
           <Image
             src="/400dpiLogo.png"
