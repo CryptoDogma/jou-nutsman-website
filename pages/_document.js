@@ -7,6 +7,7 @@ export default function Document() {
         <meta name="description" content="Jou Nutsman Pty Ltd – your one-stop handyman for home & business. We do maintenance, electrical, solar installations, security, IT & more. Get it done right!" />
         <meta name="keywords" content="handyman, maintenance, solar installation, CCTV, electric fencing, security systems, Jou Nutsman, IT support, electrician, plumbing" />
         <meta name="author" content="Stephan Kruger" />
+        <meta name="google-site-verification" content="CyLTz8pT5WRU0NtUMx3x8-mbDhrhcZ7_JpvTC9nSehU" />
 
         {/* OpenGraph for social media */}
         <meta property="og:title" content="Jou Nutsman | Maintenance, Solar & Security Services" />
